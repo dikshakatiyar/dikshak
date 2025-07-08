@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi, I'm Diksha  <br>🌹Computer Science and Engineering student at AKTU🎈🎈🎀🎀🎀🎀  <br>💫Cyber Security Enthusiast  <br>🌈I create mini Python projects as a hobby  <br>🍀 Exploring AI/ML, Full Stack Web Dev & Ethical Hacking  <br>🌷 Building secure, user-friendly apps with purpose  <br>🎀 Co-Chair | IEEE Women in Engineering (PSIT SB)  <br>🎈 Currently working on: ProbTrack – a competitive programming tracker with AI 💻  <br>
+Hi, I'm Diksha  <br>🌹Computer Science and Engineering student at AKTU🎈🎈🎀🎀🎀🎀  <br>💫Cyber Security Enthusiast  <br>🌈I create mini Python projects as a hobby  <br>🍀 Exploring AI/ML, Full Stack Web Dev & Ethical Hacking  <br>🌷 Building secure, user-friendly apps with purpose  <br>  <br>🎈 Currently working on: ProbTrack – a competitive programming tracker with AI 💻  <br>
 
 
 ## 🌐 Socials:
